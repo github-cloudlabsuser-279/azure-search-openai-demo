@@ -280,6 +280,9 @@ opentelemetry-sdk==1.23.0
     #   opentelemetry-resource-detector-azure
 opentelemetry-semantic-conventions==0.44b0
     # via
+express==4.17.1
+mongoose==6.0.12
+dotenv==10.0.0
     #   opentelemetry-instrumentation-aiohttp-client
     #   opentelemetry-instrumentation-asgi
     #   opentelemetry-instrumentation-dbapi
