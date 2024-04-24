@@ -150,3 +150,4 @@ data/**/*.md5
 
 .DS_Store
 /.vs/azure-search-openai-demo/copilot-chat/e6a6baa3/sessions/f9f88ba0-31a0-4343-a63b-8e7cec6b2f5b
+/.vs/azure-search-openai-demo/FileContentIndex
